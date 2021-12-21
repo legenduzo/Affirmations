@@ -3,4 +3,4 @@ The Affirmations app uses the best of Jetpack RecyclerView component to display 
 and a corresponding Image
 
 ### Screenshot
-![image](https://user-images.githubusercontent.com/71154576/147007778-ed0f9834-ba0e-47b4-92b5-2e48f67a700d.png)
+![Affirmations screen](https://user-images.githubusercontent.com/71154576/147007896-4c98856e-08b7-4abd-a1c2-a7b633be1a8b.png)
